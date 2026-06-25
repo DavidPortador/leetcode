@@ -1,0 +1,2 @@
+# leetcode
+LeetCode platform solutions
