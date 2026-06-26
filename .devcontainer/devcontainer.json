@@ -1,0 +1,15 @@
+{
+  "name": "LeetCode",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "leetcode",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "redhat.java",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  },
+  "remoteUser": "root",
+  "workspaceFolder": "/workspace"
+}
